@@ -1,0 +1,28 @@
+h1 {
+    
+    text-align: center;
+ 
+    
+    
+    
+ }
+
+
+ 
+ .coluna-100 {
+   width: 100%;
+   text-align:right ;
+ }
+ .gif {
+   text-align: center;
+  padding: 15px;
+  width:70; 
+  height: 40;
+}
+
+.mapa {
+  text-align: center;
+  padding: 15px;
+  width:90; 
+  height: 75;
+}
